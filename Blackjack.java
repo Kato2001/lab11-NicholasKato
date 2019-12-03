@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//Nicholas Kato was here lab 11
 class P1Random
 {
     private long next;
